@@ -3,11 +3,12 @@
 
     <div class="max-w-2xl">
 
-        <h1 class="text-5xl tracking-widest font-extrabold text-yellow-600 mb-5">ERRORIST</h1>
+        <h1 class="text-5xl tracking-widest font-extrabold text-yellow-600 mb-5">PUSHING ERRORIST</h1>
         
         <p class="text-lg mb-8 text-yellow-300 italic">
             (n)someone who repeatedly makes
             mistakes, or is always wrong.
+            Pushing my Limit to the fullest.
         </p>
 
         <div class="flex flex-wrap gap-4">
